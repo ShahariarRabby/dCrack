@@ -1,5 +1,7 @@
 # dCrack: Enhancing Fine-Grained Crack Segmentation with Edge-Guided Attention
 
+> **Summary:** dCrack is a deep-learning framework for fine-grained crack segmentation in real-world infrastructure images. It uses edge-guided attention to accurately detect thin, low-contrast cracks, suppress crack-like noise, and preserve detailed crack topology — outperforming conventional segmentation networks on challenging pavement and structural surfaces.
+
 ## Overview
 
 This repository accompanies the paper **"dCrack: Enhancing Fine-Grained Crack Segmentation with Edge-Guided Attention"**, which addresses the problem of fine-grained crack segmentation in challenging real-world scenes. The work focuses on accurately detecting thin, low-contrast cracks while suppressing crack-like noise and preserving detailed crack topology.
