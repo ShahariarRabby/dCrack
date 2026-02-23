@@ -21,7 +21,7 @@ To support research on fine-grained crack segmentation, we provide access to the
 
 If you would like to access the dataset:
 
-1. **Send an email request** to: `dcrack@rabby.dev`
+1. **Send an email request** to: `dcrack att rabby.dev`
 2. Briefly introduce yourself and your institution.
 3. Describe your intended use of the dataset (e.g., academic research, benchmarking, thesis work).
 4. Confirm that you agree to:
@@ -52,4 +52,4 @@ If you use the **dCrack** dataset or the ideas from this work in your research, 
 
 For **dataset access, questions, or collaboration inquiries**, please contact:
 
-- Email: `dcrack@rabby.dev`
+- Email: `dcrack att rabby.dev`
